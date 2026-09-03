@@ -451,8 +451,3 @@ Expected:
 
 The optional background Welcome Email feature was not implemented.
 
-## Notes
-
-The implementation prioritizes the required interoperability, security, validation, and audit requirements within the scope of the coding exercise.
-
-No real patient information is used in the sample data.
